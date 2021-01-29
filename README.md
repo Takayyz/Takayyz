@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Takayyz&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takayyz&layout=compact&theme=tokyonight)
+
+## CodePen
+https://codepen.io/takayyz
