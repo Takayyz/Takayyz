@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img style="height: 150px;" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takayyz&layout=compact&theme=tokyonight" />
 </div>
 
-## CodePen
-https://codepen.io/takayyz
+## Work
+- <a href="https://codepen.io/takayyz" target="_blank">CodePen</a>
