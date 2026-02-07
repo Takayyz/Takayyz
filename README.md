@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img style="height:150px;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Takayyz&count_private=true&show_icons=true&theme=tokyonight" />
-  <img style="height: 150px;" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takayyz&layout=compact&theme=tokyonight" />
+  <img style="height:150px;" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Takayyz&count_private=true&show_icons=true&theme=tokyonight" />
+  <img style="height: 150px;" alt="Most Used Language" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Takayyz&layout=compact&theme=tokyonight" />
 </div>
-
-## Work
-- <a href="https://codepen.io/takayyz" target="_blank">CodePen</a>
