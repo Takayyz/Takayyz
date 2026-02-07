@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=Takayyz)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takayyz&theme=city_lights)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Takayyz&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)
 
 <div align="left">
-  <img style="height:150px;" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Takayyz&count_private=true&show_icons=true&theme=tokyonight" />
-  <img style="height: 150px;" alt="Most Used Language" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Takayyz&layout=compact&theme=tokyonight" />
+  <img style="height:150px;" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Takayyz&count_private=true&show_icons=true&theme=city_lights" />
+  <img style="height: 150px;" alt="Most Used Language" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Takayyz&layout=compact&theme=city_lights" />
 </div>
